@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697700215789",
+    "project_id": "weatherbee-winningbees",
+    "storage_bucket": "weatherbee-winningbees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697700215789:android:5e8c2894c82c1068e655e4",
+        "android_client_info": {
+          "package_name": "com.winningbees.weather_bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697700215789-2ggkaekeenmstt6nt5hu6em50nt1f4rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOB9RXsVf7yUbbuZHgcZiOCzQQt1IJJG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697700215789-2ggkaekeenmstt6nt5hu6em50nt1f4rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

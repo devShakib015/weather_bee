@@ -1,0 +1,8 @@
+
+
+1. Registration page - Name, email, pass, confirm pass -> Create user profile and save that to firestore 
+2. Login page - email, pass
+3. Home Page - 
+4. profile page - Update Profile! (Name Update)
+5. API fetch - Weather API and show in the home page
+
